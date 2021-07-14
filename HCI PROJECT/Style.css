@@ -1,0 +1,18 @@
+@charset "utf-8";
+body {
+    background-image: url(images/pic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+}
+
+@media screen{
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    background-image: url(images/pic.jpg);
+
+
+}
+
+}
